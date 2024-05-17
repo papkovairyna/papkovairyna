@@ -1,4 +1,4 @@
-### Hi there 👋 My  name is [Iryna](https://www.linkedin.com/in/irynapapkova/). I'm Software QA Manual and Automation Engineer
+### Hi there 👋 My  name is [Iryna](https://www.linkedin.com/in/irynapapkova/). I'm Software QA Manual and Automation Engineer from Washington DC
 
 
 <img src="https://user-images.githubusercontent.com/118790874/204936475-59bb73ce-49a8-44c4-9d9c-7b1f9f8cf96e.gif" width="800">

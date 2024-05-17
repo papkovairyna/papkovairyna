@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/118790874/204936475-59bb73ce-49a8-44c4-9d9c-7b1f9f8cf96e.gif" width="800">
 
 ### :mailbox:How to find me:<div id="badges"> 
-<a href="https://(https://www.linkedin.com/in/irynapapkova/)/">
+<a href="https://www.linkedin.com/in/irynapapkova/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 
  ### :hammer_and_wrench: Here's my toolbox : 
